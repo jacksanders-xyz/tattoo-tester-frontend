@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(hsl(240, 50%, 80% ),hsl(260, 30%, 30%));
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+header {
+    display: flex;
+    justify-content: Center;
+    background-color: aqua;
+}
+#buttons-container {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+main {
+    display: flex;
+    justify-content: center;
+}
+
+
+#form-space {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

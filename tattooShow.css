@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(hsl(240, 50%, 80% ),hsl(260, 30%, 30%));
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+header {
+    display: flex;
+    justify-content: Center;
+    background-color: aqua;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
